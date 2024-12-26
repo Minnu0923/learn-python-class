@@ -1,0 +1,30 @@
+Python-general purpose programming language
+CI/CD-
+
+python in-built function (65+ functions)
+print ()
+input () read data
+Type () return data type
+id ()
+lamda ()
+min ()
+-Data types
+<class, int>
+<class, str>
+<class, float>
+<class, complex>
+<class, bool>
+
+<class, list>
+<class, tuple>
+<class, set>
+<class, dict>
+
+<class, bytes>
+<class, bytearray>
+<class,
+<class, range>
+
+<class, none type>
+
+
