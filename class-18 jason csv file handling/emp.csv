@@ -1,10 +1,2 @@
-1,Cathie,Non-binary
-2,Cecily,Female
-3,Randolf,Male
-4,Bobbie,Male
-5,Auria,Female
-6,Ophelie,Female
-7,Christye,Female
-8,Malva,Female
-9,Renae,Female
-10,Jacenta,Female
+eid,ename,salary
+"[1, 'Rahul', 5000]","[2, 'Sonia', 10000]"
