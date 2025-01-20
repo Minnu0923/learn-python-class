@@ -1,4 +1,4 @@
-import pymongo
+import pymongo # type: ignore
 #help(pymongo)
 
 client = pymongo.MongoClient('mongodb://localhost:27017/')
